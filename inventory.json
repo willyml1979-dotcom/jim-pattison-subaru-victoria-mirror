@@ -1,7 +1,7 @@
 {
   "dealership": "Jim Pattison Subaru Victoria",
-  "generated_at": "2026-10-25T18:57:21",
-  "vehicle_count": 218,
+  "generated_at": "2026-10-25T19:05:42",
+  "vehicle_count": 215,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -527,7 +527,7 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "new",
-      "price": 45517.0,
+      "price": 46517.0,
       "price_currency": "CAD"
     },
     {
@@ -1845,17 +1845,6 @@
       "condition": "new"
     },
     {
-      "name": "2026 Subaru Outback Limited XT AWD",
-      "vin": "JF2BURHD2TY598656",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-victoria-mirror/new/cc4aaef82b74.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Outback",
-      "condition": "new",
-      "price": 51028.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Subaru Outback Touring AWD",
       "vin": "JF2BUPCD3TY601155",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-victoria-mirror/new/8175fcfa9507.html",
@@ -2027,28 +2016,6 @@
       "name": "2026 Subaru WRX Sport Manual",
       "vin": "JF1VBAH65T9814391",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-victoria-mirror/new/ae61b5ad09aa.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "WRX",
-      "condition": "new",
-      "price": 41227.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru WRX tS",
-      "vin": "JF1VBAZ66T9815306",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-victoria-mirror/new/c059a6070360.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "WRX",
-      "condition": "new",
-      "price": 51027.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru WRX Sport Manual",
-      "vin": "JF1VBAH66T9815517",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-victoria-mirror/new/762ebfa3ad8e.html",
       "year": 2026,
       "make": "Subaru",
       "model": "WRX",
