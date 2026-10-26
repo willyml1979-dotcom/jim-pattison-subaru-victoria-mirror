@@ -1,6 +1,6 @@
 {
   "dealership": "Jim Pattison Subaru Victoria",
-  "generated_at": "2026-10-26T04:11:53",
+  "generated_at": "2026-10-26T04:20:28",
   "vehicle_count": 215,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -538,7 +538,7 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "new",
-      "price": 45528.0,
+      "price": 46527.0,
       "price_currency": "CAD"
     },
     {
@@ -549,7 +549,7 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "new",
-      "price": 45517.0,
+      "price": 46517.0,
       "price_currency": "CAD"
     },
     {
@@ -578,7 +578,7 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "new",
-      "price": 45518.0,
+      "price": 46518.0,
       "price_currency": "CAD"
     },
     {
@@ -1453,7 +1453,7 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "new",
-      "price": 47528.0,
+      "price": 48527.0,
       "price_currency": "CAD"
     },
     {
@@ -1464,7 +1464,7 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "new",
-      "price": 41028.0,
+      "price": 42027.0,
       "price_currency": "CAD"
     },
     {
@@ -1475,7 +1475,7 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "new",
-      "price": 43528.0,
+      "price": 44527.0,
       "price_currency": "CAD"
     },
     {
@@ -1758,15 +1758,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Outback Premier XT AWD",
-      "vin": "JF2BURJD5TY587502",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-victoria-mirror/new/c48367ee0878.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Outback",
-      "condition": "new"
-    },
-    {
       "name": "2026 Subaru Outback Limited XT AWD",
       "vin": "JF2BURHD4TY592891",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-victoria-mirror/new/59edd358ba2d.html",
@@ -2000,6 +1991,15 @@
       "condition": "new",
       "price": 43727.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Outback",
+      "vin": "JF2BURLD9TY601379",
+      "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-victoria-mirror/new/be9ea2408700.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Outback",
+      "condition": "new"
     },
     {
       "name": "2026 Subaru WRX Sport-tech Manual",
