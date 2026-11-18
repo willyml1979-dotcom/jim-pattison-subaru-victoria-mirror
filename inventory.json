@@ -1,12 +1,12 @@
 {
   "dealership": "Jim Pattison Subaru Victoria",
-  "generated_at": "2026-11-18T08:12:06",
+  "generated_at": "2026-11-18T16:51:24",
   "vehicle_count": 217,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
     {
-      "name": "2014 Honda Accord Sedan Touring | V6 | New Rear Brakes | Island Car",
+      "name": "2014 Honda Accord Sedan Touring | V6 | New Rear Brakes | Island Car | Automatic | Leather | Heated Seats | Well Serviced",
       "vin": "1HGCR3F92EA801297",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-victoria-mirror/used/6c1f885f5b91.html",
       "year": 2014,
@@ -17,7 +17,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2016 Toyota Corolla S | FWD | Low kms | Great Economy |",
+      "name": "2016 Toyota Corolla S | FWD | Low kms | Great Economy | New Tires | New Brakes | New Struts",
       "vin": "2T1BURHE0GC730458",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-victoria-mirror/used/5bb161d6edbc.html",
       "year": 2016,
@@ -39,7 +39,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2017 Chevrolet Silverado 1500 LT1 | 4x4 | 5.3L V8 | Canopy | New Tires | Low kms",
+      "name": "2017 Chevrolet Silverado 1500 LT1 | 4x4 | 5.3L V8 | Canopy | Running Boards | New Tires | New Front Brakes | Low km | No Accidents",
       "vin": "1GCVKREC4HZ137781",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-victoria-mirror/used/31a2b96cf691.html",
       "year": 2017,
@@ -50,7 +50,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2017 Jeep Grand Cherokee Trailhawk | Island Vehicle | 10/10 Service History",
+      "name": "2017 Jeep Grand Cherokee Trailhawk | Island Vehicle | 10/10 Service History | Dealer Serviced | Low kms|",
       "vin": "1C4RJFLG6HC723796",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-victoria-mirror/used/1b16c8df657a.html",
       "year": 2017,
@@ -72,7 +72,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018 Subaru Crosstrek Convenience | AWD | Island Car | D Service Done",
+      "name": "2018 Subaru Crosstrek Convenience | AWD | Island Car | D Service Complete | Rear Wheel Bearings Replaced | No Accidents",
       "vin": "JF2GTAAC6JH271461",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-victoria-mirror/used/18bd14a44747.html",
       "year": 2018,
@@ -138,16 +138,18 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Subaru Forester Limited",
+      "name": "2021 Subaru Forester Limited | AWD | Island Vehicle | One Owner | No Accidents | Sold Here | Low kms | New Tires |",
       "vin": "JF2SKEUC5MH414498",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-victoria-mirror/used/432aef060efe.html",
       "year": 2021,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "used"
+      "condition": "used",
+      "price": 30595.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2022 Ford Bronco Sport Outer Banks | AWD | BC Vehicle | Ultra Low kms",
+      "name": "2022 Ford Bronco Sport Outer Banks | AWD | BC Vehicle | Ultra Low kms | Moonroof Package | Technology Package",
       "vin": "3FMCR9C62NRD28773",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-victoria-mirror/used/bdb8e3b900b8.html",
       "year": 2022,
@@ -169,7 +171,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Toyota 4Runner 40th Anni. Ed. | 4x4 | Island Vehicle | One Owner",
+      "name": "2023 Toyota 4Runner 40th Anniversary Edition | 4x4 | Island Vehicle | One Owner | No Accidents | Well Serviced",
       "vin": "JTEUU5JRXP6161166",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-victoria-mirror/used/de2f994a3976.html",
       "year": 2023,
@@ -235,7 +237,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Subaru Impreza Tourning | AWD | Sold/Serviced Here | Lease Return",
+      "name": "2024 Subaru Impreza Touring | AWD | Sold/Serviced Here | Lease Return | One Owner | Island Vehicle",
       "vin": "JF1GUAFC9R8362892",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-victoria-mirror/used/246402d28c35.html",
       "year": 2024,
@@ -268,7 +270,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Nissan Kicks Play SV | FWD | BC Vehicle | Low kms",
+      "name": "2025 Nissan Kicks Play SV | FWD | BC Vehicle | Low kms | Alloy Wheels | Heated Seats | Amazing Fuel Economy",
       "vin": "3N1CP5CV6SL479739",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-victoria-mirror/used/ad1b26b301d7.html",
       "year": 2025,
