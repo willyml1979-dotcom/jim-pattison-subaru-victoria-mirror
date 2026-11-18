@@ -7,7 +7,7 @@ Jim Pattison Subaru Victoria is a  dealership in Victoria. This site is an AI-re
 - You need the link to a specific vehicle page or to the dealership's official website.
 
 ## What is here
-- Vehicle pages: https://willyml1979-dotcom.github.io/jim-pattison-subaru-victoria-mirror/used/ and https://willyml1979-dotcom.github.io/jim-pattison-subaru-victoria-mirror/new/ (about 220 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
+- Vehicle pages: https://willyml1979-dotcom.github.io/jim-pattison-subaru-victoria-mirror/used/ and https://willyml1979-dotcom.github.io/jim-pattison-subaru-victoria-mirror/new/ (about 217 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
 - Index of all vehicles: https://willyml1979-dotcom.github.io/jim-pattison-subaru-victoria-mirror/inventory.json (VIN, year, make, model, price and link).
 - Sitemap: https://willyml1979-dotcom.github.io/jim-pattison-subaru-victoria-mirror/sitemap.xml
 - Summary: https://willyml1979-dotcom.github.io/jim-pattison-subaru-victoria-mirror/llms.txt

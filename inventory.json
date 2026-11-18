@@ -1,7 +1,7 @@
 {
   "dealership": "Jim Pattison Subaru Victoria",
-  "generated_at": "2026-11-16T22:37:46",
-  "vehicle_count": 220,
+  "generated_at": "2026-11-17T22:41:02",
+  "vehicle_count": 217,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -14,17 +14,6 @@
       "model": "Accord",
       "condition": "used",
       "price": 15595.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2014 Nissan Leaf Hatchback SL | 10 Bar Car | Leather | Bose Premium Audio",
-      "vin": "1N4AZ0CP2EC332343",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-victoria-mirror/used/b836654c3bda.html",
-      "year": 2014,
-      "make": "Nissan",
-      "model": "Leaf",
-      "condition": "used",
-      "price": 9395.0,
       "price_currency": "CAD"
     },
     {
@@ -57,18 +46,18 @@
       "make": "Chevrolet",
       "model": "Silverado 1500",
       "condition": "used",
-      "price": 27595.0,
+      "price": 26095.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2017 Jeep Grand Cherokee Trailhawk | Island Vehicle | Dealer Serviced | 5.7",
+      "name": "2017 Jeep Grand Cherokee Trailhawk | Island Vehicle | 10/10 Service History",
       "vin": "1C4RJFLG6HC723796",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-victoria-mirror/used/1b16c8df657a.html",
       "year": 2017,
       "make": "Jeep",
       "model": "Grand Cherokee",
       "condition": "used",
-      "price": 23595.0,
+      "price": 22095.0,
       "price_currency": "CAD"
     },
     {
@@ -83,17 +72,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018 Mazda CX-5 GS | AWD | 1 Owner | Island Vehicle",
-      "vin": "JM3KFBCMXJ0410850",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-victoria-mirror/used/4c57b0ed8da5.html",
-      "year": 2018,
-      "make": "Mazda",
-      "model": "CX-5",
-      "condition": "used",
-      "price": 19595.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2018 Subaru Crosstrek Convenience | AWD | Island Car | D Service Done",
       "vin": "JF2GTAAC6JH271461",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-victoria-mirror/used/18bd14a44747.html",
@@ -101,18 +79,7 @@
       "make": "Subaru",
       "model": "Crosstrek",
       "condition": "used",
-      "price": 22595.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Chevrolet Bolt EV Premier | Island Car | Dealer Serviced | Low kms",
-      "vin": "1G1FZ6S05K4144826",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-victoria-mirror/used/defd0be4e263.html",
-      "year": 2019,
-      "make": "Chevrolet",
-      "model": "Bolt EV",
-      "condition": "used",
-      "price": 19595.0,
+      "price": 20595.0,
       "price_currency": "CAD"
     },
     {
@@ -156,7 +123,7 @@
       "make": "Lexus",
       "model": "UX",
       "condition": "used",
-      "price": 31495.0,
+      "price": 30595.0,
       "price_currency": "CAD"
     },
     {
@@ -171,6 +138,15 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2021 Subaru Forester Limited",
+      "vin": "JF2SKEUC5MH414498",
+      "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-victoria-mirror/used/432aef060efe.html",
+      "year": 2021,
+      "make": "Subaru",
+      "model": "Forester",
+      "condition": "used"
+    },
+    {
       "name": "2022 Ford Bronco Sport Outer Banks | AWD | BC Vehicle | Ultra Low kms",
       "vin": "3FMCR9C62NRD28773",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-victoria-mirror/used/bdb8e3b900b8.html",
@@ -178,7 +154,7 @@
       "make": "Ford",
       "model": "Bronco Sport",
       "condition": "used",
-      "price": 29595.0,
+      "price": 26595.0,
       "price_currency": "CAD"
     },
     {
@@ -270,17 +246,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Subaru Outback Wilderness | AWD | Sold/Service here | Island Car",
-      "vin": "4S4BTHTD9R3239261",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-victoria-mirror/used/383e01e51f93.html",
-      "year": 2024,
-      "make": "Subaru",
-      "model": "Outback",
-      "condition": "used",
-      "price": 41595.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Subaru WRX AWD | Island Vehicle | Sold Here | Low kms",
       "vin": "JF1VBAB60R9812839",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-victoria-mirror/used/45b7e3324959.html",
@@ -288,7 +253,7 @@
       "make": "Subaru",
       "model": "WRX AWD",
       "condition": "used",
-      "price": 32095.0,
+      "price": 31595.0,
       "price_currency": "CAD"
     },
     {
@@ -310,7 +275,7 @@
       "make": "Nissan",
       "model": "Kicks",
       "condition": "used",
-      "price": 23495.0,
+      "price": 22495.0,
       "price_currency": "CAD"
     },
     {
@@ -321,7 +286,7 @@
       "make": "Subaru",
       "model": "Crosstrek",
       "condition": "used",
-      "price": 38595.0,
+      "price": 38395.0,
       "price_currency": "CAD"
     },
     {
@@ -2104,7 +2069,7 @@
       "make": "Volkswagen",
       "model": "Taos",
       "condition": "used",
-      "price": 33095.0,
+      "price": 31595.0,
       "price_currency": "CAD"
     },
     {
